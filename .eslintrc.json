@@ -9,6 +9,7 @@
         "endOfLine": "auto"
       }
     ],
-    "camelcase": "off"
+    "camelcase": "off",
+    "no-useless-constructor":"off"
   }
 }
