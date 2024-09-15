@@ -1,6 +1,17 @@
-# App
+# Projeto Check-ins em Academias
 
-GymPass style app.
+Bem-vindo ao Check-ins em Academias! Este aplicativo, construído com Node.js e Fastify, visa simplificar o processo de registro e gerenciamento de check-ins em academias. Com ele, você pode:
+
+- Registrar Check-ins: Realize check-ins na academia de maneira rápida e eficiente.
+- Visualizar Histórico: Acompanhe seu histórico de check-ins e mantenha-se motivado.
+- Gerenciar Usuários: Administradores podem gerenciar usuários e acessar relatórios detalhados.
+## Recursos
+- Interface Intuitiva: Design fácil de usar e amigável.
+- Relatórios e Análises: Acesse insights sobre frequência e padrões de uso.
+- Segurança: Protege dados e informações pessoais dos usuários.
+## Tecnologias
+- Node.js: Ambiente de execução para JavaScript no lado do servidor.
+- Fastify: Framework web rápido e de baixo overhead para Node.js.
 
 #  RFS (Requisitos funcionais)
 
