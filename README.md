@@ -1,6 +1,6 @@
-# Projeto Check-ins em Academias
+# Sistema de Check-ins para Academias
 
-Bem-vindo ao Check-ins em Academias! Este aplicativo, construído com Node.js e Fastify, visa simplificar o processo de registro e gerenciamento de check-ins em academias. Com ele, você pode:
+Bem-vindo ao Check-ins em Academias! Este sistema, construído com Node.js e Fastify, visa simplificar o processo de registro e gerenciamento de check-ins em academias. Com ele, você pode:
 
 - Registrar Check-ins: Realize check-ins na academia de maneira rápida e eficiente.
 - Visualizar Histórico: Acompanhe seu histórico de check-ins e mantenha-se motivado.
